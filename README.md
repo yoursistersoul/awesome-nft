@@ -1,12 +1,13 @@
 本项目从 Awesome-NFT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 同步而来
 
-#Awesome-NFT
-A curated list of awesome Non Fungible Token (NFT, ERC721, ERC1155) frameworks, libraries and software.
+#NFT精选列表
 
-Table of contents
+非同质代币（NFT、ERC721、ERC1155）框架、库和软件的精选列表。
+
+目录
 =================
 
-* [Project Spotlight](#Project-Spotlight)
+* [项目聚焦](#Project-Spotlight)
 * [Blockchains](#blockchains)
   * [Ethereum](#ethereum)
   * [Matic - Polygon](#matic---polygon)
@@ -57,7 +58,7 @@ Table of contents
 * [NFT Carbon Footprint](#nft-carbon-footprint)
 <!--te-->
 
-## **Project Spotlight**
+## **项目聚焦**
  * [Eulerbeats](https://eulerbeats.com)
  * [Nifty Ink](https://nifty.ink/)
  * [Scaffold-eth (everything you need for DApp & NFT development)](https://github.com/austintgriffith/scaffold-eth)

@@ -1,8 +1,8 @@
 本项目从 Awesome-NFT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 同步而来
 
-#NFT精选列表
+#NFT中文精选列表
 
-非同质代币（NFT、ERC721、ERC1155）框架、库和软件的精选列表。
+非同质代币（NFT、ERC721、ERC1155）框架、库和软件的精选列表,在这里你可以先基础的了解一下[什么是NFT](https://www.bilibili.com/video/BV1yf4y1g7Wx).
 
 目录
 =================
@@ -99,14 +99,16 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 
 ## NFT 教程
 
-- [Cryptozombies Tutorial](https://cryptozombies.io/en/lesson/5)
-- [NFT Tutorial Article](https://medium.com/pinata/how-to-build-erc-721-nfts-with-ipfs-e76a21d8f914)
-- Coding an [ERC-721 collectible](https://www.youtube.com/watch?v=YPbgjPPC1d0).
-- [How to mint on KodaDot NFT](https://nft.kodadot.xyz/rmrk/collection/10D77F8B699437BB50-KODA)
-- [How to mint on KodaDot NFT explorer](https://stakenode.medium.com/dont-panic-and-mint-your-nft-s-on-kodadot-kusama-polkadot-first-nft-explorer-4273f789e585)
-- [Hedera Token Service Demo: Token configuration, issuance, and transfer](https://www.youtube.com/watch?v=aEFm4bdnsBI)
+- [加密僵尸教程](https://cryptozombies.io/en/lesson)
+- [如何使用IPFS构建ERC-721 NFT](https://medium.com/pinata/how-to-build-erc-721-nfts-with-ipfs-e76a21d8f914)
+- [如何编写一个ERC-721的加密藏品](https://www.youtube.com/watch?v=YPbgjPPC1d0).
+- [如何使用画师工具创作上万幅像素作品](https://www.bilibili.com/video/BV1gv411G7FG?spm_id_from=333.999.0.0)
+- [如何在Coltstail上铸造一个NFT](https://www.bilibili.com/video/BV1iF411e7CM)
+- [如何通过Opensea制作NFT](https://www.bilibili.com/video/BV1m5411g7rN)
+- [Hedera Token Service教程: 原生通证发行和配置机制](https://www.youtube.com/watch?v=aEFm4bdnsBI)
+- [METAMASK创建、恢复和使用](https://www.bilibili.com/video/BV1B44y1v7S7?spm_id_from=333.999.0.0)
 
-## **NFT Commmunity**
+## **NFT 社区**
 
 ### **Discord**
 
@@ -119,17 +121,17 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [NonFungible.Com](https://discord.gg/3WQ5sT4Dpj)
 - [Clean NFTs Discord](https://discord.gg/jCwm7A6ZJB)
 
-### **NFT Enabled Communities**
+### **支持NFT的社区**
 
 - [VeeFriends](https://www.veefriends.com/)
 
-### **Twitter List**
+### **Twitter 列表**
 
-- [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
+- [Gianni的NFT Twitter列表](https://twitter.com/GianniDalerta/lists/nft)
 - [Rarible](https://twitter.com/rariblecom?lang=en)
 - [NFT Protocol](https://twitter.com/nft_protocol?lang=en)
 
-### 2021 Eth Global NFT Hack [Full Showcase](https://hack.ethglobal.co/nfthack/showcase)
+### 2021 Eth全球NFT黑客[全面展示](https://hack.ethglobal.co/nfthack/showcase)
 - [MysteryDrop](https://hack.ethglobal.co/showcase/mysterydrop-recnAaH5hHt2oH656) - Details on [Medium](https://ipatka.medium.com/nft-box-breaks-how-to-use-the-unique-properties-of-ipfs-content-addressing-to-sell-nfts-before-365b5b1f1ed0) by project lead [Isaac Patka](https://twitter.com/isaacpatka)
 - [hashink](https://hack.ethglobal.co/showcase/hashink-rechIlWuMbBysOmOJ)
 - [SuperRenting](https://hack.ethglobal.co/showcase/superrenting-nft-recGACrXfeSonVIuY)
@@ -144,13 +146,13 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [NFTY DM](https://hack.ethglobal.co/showcase/nifty-dm-recx1Lf0ybi6fAQJp)
 - [Hashchain](https://hack.ethglobal.co/showcase/hashchain-recIkfZwbN7FfYSTs)
 
-### **Associations**
+### **社团**
 
 - [The Non-Fungible Alliance](https://nonfungiblealliance.org/)
 
-## **Publications**
+## **出版物**
 
-### **Newsletters**
+### **简讯**
 
 * [NFTY News](https://medium.com/nfty*news) by [Brian Flynn](https://medium.com/@brianubiquik)
 * [NFT Review](https://news.nft.review) by [Bruno Škvorc](https://twitter.com/bitfalls)
@@ -159,18 +161,18 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [NFT Review](https://news.nft.review) by [Bruno Škvorc](https://twitter.com/bitfalls)
 - [Nifty Road](https://niftyroad.io)
 
-### **News**
+### **新闻**
 
 - [The Crypto Collectors](https://thecryptocollectors.com/)
 - [Cointelegraph's NFT Week magazine](https://cointelegraph.com/magazine/nft-week)
 - [Dappradar's NFT blog](https://dappradar.com/blog/tag/nfts)
 
-### **Gaming**
+### **游戏**
 
 - [Blockchain Gamer](https://www.blockchaingamer.biz/)
 - [Crypto Bit Games](https://twitter.com/cryptobitgames?lang=en)
 
-### **NFT Articles**
+### **NFT文章**
 
 * [Crypto Stories: A Primer on Non*Fungible Tokens](https://www.spreaker.com/user/10197011/amitt*mahajan*tony*sheng) from [Venture Stories](https://www.spreaker.com/show/venture*stories)
 * [A New Media Structure: The Ownership Economy](https://darkstar.mirror.xyz/srmoGiN_1pg_toQGzCupkjWFOaf8xi0mM60zYpn_pwI) by Jarrod Dicker
@@ -208,14 +210,14 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [Building an NFT Auction on Hedera Hashgraph](https://hedera.com/blog/building-nft-auction-on-hedera)
 - [Dawn of the Art Legos](https://url.rmrk.app/dawnawe) by [Bruno Škvorc](https://twitter.com/bitfalls)
 
-### **NFT Podcasts**
+### **NFT播客**
 
-### **Podcast Episodes**
+### **Podcast 选集**
 
 - [Lets Talk Bitcoin | E86 - Virtual Worlds, Real Money](https://letstalkbitcoin.com/e86-virtual-worlds-real-money)
 - [Digitally Rare](https://twitter.com/digitallyrare)
 
-## Resources, frameworks, blockchain orchestration, testing, and command line interface.
+## 资源、框架、区块链编排、测试和命令行界面。
 - [Scafold-Eth](https://github.com/austintgriffith/scaffold-eth)
 - [Rarepress](https://rarepress.org/)
 - [Clevis](https://github.com/austintgriffith/clevis)
@@ -227,7 +229,7 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [NFT Multisender](https://nft.multisender.app/)
 - [RMRK tools](https://github.com/rmrk-team/rmrk-tools/)
 
-## **NFT Games**
+## **NFT游戏**
 
 - [00xuniverse](https://0xuniverse.com/)
 - [Aavegotchi](https://aavegotchi.com/)
@@ -262,12 +264,12 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [WORLDWIDE WEB3](https://www.crypto-weebs.com/)
 - [Kanaria](https://kanaria.rmrk.app)
 
-### **NFT Play-to-Earn**
+### **NFT 玩转地球**
 - [Axie Infinity](https://axieinfinity.com/)
 - [Riot Racers](http://riot.fun/)
 - [ZED](https://zed.run/)
 
-## **NFT Platforms**
+## **NFT平台**
 
 * [Enjin Coin](https://enjincoin.io/)
 * [Horizon Games](https://horizongames.net/)
@@ -283,56 +285,8 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [useNft()](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
 - [NFT Multisender](https://nft.multisender.app/)
 
-## **NFT Games**
 
-- [00xuniverse](https://0xuniverse.com/)
-- [Aavegotchi](https://aavegotchi.com/)
-- [Cometh](https://cometh.io/)
-- [Citymayor](https://citymayor.co/)
-- [Crypto Assault](https://cryptoassault.io/)
-- [CryptoFighters](https://cryptofighters.io/)
-- [CryptoFights](https://cryptofights.io/)
-- [Cryptogs](https://cryptogs.io/)
-- [CryptoKitties](https://www.cryptokitties.co/)
-- [CryptoRome](https://www.cryptorome.io/)
-- [CryptoSaga](https://cryptosaga.io/)
-- [Cryptovoxels](https://www.cryptovoxels.com/)
-- [Decentraland](https://decentraland.org/)
-- [Ember Sword](https://socouch.com/)
-- [Ether Kingdoms](https://wax.io/)
-- [Galleass](https://austingriffith.com/portfolio/galleass/)
-- [Gizer](https://gizer.io/)
-- [Gods Unchained](https://t.co/UmGG9FzqQB)
-- [Hedgie](https://www.hedgie.io/)
-- [HyperDragons](https://hyperdragons.alfakingdom.com/)
-- [LOOT](https://www.lootproject.com/)
-- [Mythereum](https://www.mythereum.io/)
-- [Mooncats](https://mooncatrescue.com/?utm_source=DappRadar&utm_medium=deeplink&utm_campaign=visit-website)
-- [My Crypto Heros](https://www.mycryptoheroes.net/)
-- [Neon District](https://neondistrict.io/)
-- [NBA Top Shot](https://www.nbatopshot.com/?utm_source=DappRadar&utm_medium=deeplink&utm_campaign=visit-website) (Hot)
-- [SkyWeaver](https://skyweaver.net/)
-- [WarCrypto](https://warofcrypto.io/)
-- [War Riders](https://warriders.com/)
-- [World of Ether](https://worldofether.com/)
-- [WORLDWIDE WEB3](https://www.crypto-weebs.com/)
-
-### **NFT Play-to-Earn**
-- [Axie Infinity](https://axieinfinity.com/)
-- [Riot Racers](http://riot.fun/)
-- [ZED](https://zed.run/)
-
-## **NFT Platforms**
-
-- [Enjin Coin](https://enjincoin.io/)
-- [Horizon Games](https://horizongames.net/)
-- [Hoard](https://www.hoard.exchange/)
-- [Enjin Coin](https://enjincoin.io/)
-- [Horizon Games](https://horizongames.net/)
-- [Hoard](https://www.hoard.exchange/)
-- [Singular by RMRK](https://singular.rmrk.app) 
-
-## **NFT Art**
+## **NFT艺术品**
 
 - [Art Blocks](https://artblocks.io/)
 - [Codex](https://codexprotocol.com/)
@@ -353,12 +307,12 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [Wallkanda](http://wallkanda.art/) for street art
 - [WeeeArt](https://art.weee.network/) by [David Sun](https://medium.com/@davidsun_93561)
 
-## **NFT IRL**
+## **NFT现实应用**
 - [Bright Moments Gallery & DAO](https://brightmoments.io/)
 - [Black Dove](https://www.blackdove.com/)
 - [Infinite Objects](https://infiniteobjects.com/)
 
-## **NFT Music**
+## **NFT音乐**
 
 - [EulerBeats](https://eulerbeats.com/)
 - [HashMelody](https://hashmelody.com)
@@ -380,7 +334,7 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [Node Runners](https://wiki.metagame.wtf/docs/great-houses/house-of-daos)
 
 
-## **NFT Explorers**
+## **NFT 探索**
 
 - [NFTNDX.IO](https://nftndx.io)
 
@@ -388,7 +342,7 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 
 - [Gittron](https://gittron.me/)
 
-## **NFT Collectables**
+## **NFT 收藏品**
 
 * [CryptoCorals](https://cryptocorals.co/)
 * [CryptoKitties](https://www.cryptokitties.co/)
@@ -419,7 +373,7 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [Aavegotchi](https://aavegotchi.com/)
 - [Kanaria](https://kanaria.rmrk.app)
 
-## **NFT PFP**
+## **NFT PFP项目**
 - [BASTARD GAN PUNKS](https://bastardganpunks.club/)
 - [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/)
 - [Cool Cats](https://www.coolcatsnft.com/)
@@ -430,20 +384,21 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [The SneakerHeadz Society](https://tssnft.com)
 
 
-## **NFT Business**
+## **NFT 商业应用**
 
 - [Artcryption](https://artcryption.com/)
 - [Centrifuge](http://www.centrifuge.io/)
-- [ENS Nifty](https://ensnifty.com/)
+-域名服务 [ENS Nifty](https://ensnifty.com/)
 
-## **NFT Badges**
+## **NFT 徽章**
 
 - [CHIEVMINT](https://chiev.net/) by the [Raid Guild](https://raidguild.org/)
 
-## **NFT Marketplaces**
+## **NFT 交易市场**
 
 * [ART.HAUS](https://art.haus)
 * [Async.art](https://async.art/)
+* [Coltstail](https://www.coltstail.com)
 * [Cargo](https://cargo.build/)
 * [CryptoSlam.io](https://www.cryptoslam.io/)
 * [GhostMarket](https://ghostmarket.io/)
@@ -470,7 +425,6 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [Mintable](https://mintable.app/)
 - [Nifty Gateway](https://niftygateway.com/#/home)
 - [NiftyKit](https://niftykit.com/)
-- [OpenSea.io](https://opensea.io/)
 - [Portion](http://portion.io/)
 - [Rarible](https://rarible.com/)
 - [Singular](https://singular.rmrk.app)
@@ -496,6 +450,7 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 
 ### **NFT Minters**
 
+* [Coltstail](https://www.coltstail.com)
 * [CocoNFT](https://coconft.com/)
 * [ethmoji](https://ethmoji.io/)
 * [NiftyKit](https://niftykit.com/)
@@ -510,7 +465,6 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [ethmoji](https://ethmoji.io/)
 - [NiftyKit](https://niftykit.com/)
 - [KodaDot](https://nft.kodadot.xyz)
-- [OpenSea.io](https://opensea.io/)
 - [Ownerfy](https://shop.ownerfy.com/)
 - [Rarible](https://rarible.com/)
 - [Unifty](https://unifty.io/)

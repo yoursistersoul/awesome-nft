@@ -1,7 +1,6 @@
-Follow me [Twitter](https://twitter.com/GianniDalerta)
-Visit Me [GianniDalerta.com](https://giannidalerta.com)
+本项目从 Awesome-NFT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 同步而来
 
-#Awesome-NFT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+#Awesome-NFT
 A curated list of awesome Non Fungible Token (NFT, ERC721, ERC1155) frameworks, libraries and software.
 
 Table of contents

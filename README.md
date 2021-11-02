@@ -8,16 +8,13 @@
 =================
 
 * [项目聚焦](#项目聚焦)
-* [Blockchains](#blockchains)
+* [区块链](#区块链)
   * [Ethereum](#ethereum)
   * [Matic - Polygon](#matic---polygon)
   * [Flow Blockchain](#flow-blockchain)
   * [Polkadot and Kusama](#polkadot-and-kusama)
   * [Hedera Token Service](#hedera-token-service)
   * [Tezos](#tezos)
-* [NFT Commmunity](#nft*commmunity)
-  * [Matic - Polygon](#matic---polygon)
-  * [Flow Blockchain](#flow-blockchain)
 * [NFT Commmunity](#nft-commmunity)
   * [DAOs](#daos)
   * [Discord](#discord)
@@ -61,44 +58,46 @@
 ## **项目聚焦**
  * [Eulerbeats](https://eulerbeats.com)
  * [Nifty Ink](https://nifty.ink/)
- * [Scaffold-eth (everything you need for DApp & NFT development)](https://github.com/austintgriffith/scaffold-eth)
- * [Authenticated Non-Fungible Tokens (NFT) Index](https://nftndx.io/)
+ * [Scaffold-eth (DApp 和 NFT 开发所需的一切)](https://github.com/austintgriffith/scaffold-eth)
+ * [经认证的非同质化代币 (NFT) 索引](https://nftndx.io/)
 
-## **Distributed Ledgers**
+## **区块链**
 
-### **Ethereum**
+### **以太坊**
 
-- [ERC-721: Non-fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
-- [ERC-721x: Extends ERC721 and adds support for multi-fungible tokens and batch transfers, fully backward-compatible](https://github.com/loomnetwork/erc721x)
-- [EIP-998: Composable Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-998)
-- [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998)
-- [EIP-1155: Crypto Items Token Standard](https://github.com/ethereum/eips/issues/1155)
+- [ERC-721: 非同质化代币标准](https://eips.ethereum.org/EIPS/eip-721)
+- [ERC-721x: 扩展了 ERC721 并增加了对多种代币和批量传输的支持，完全向后兼容](https://github.com/loomnetwork/erc721x)
+- [EIP-998: 可组合非同质代币标准](https://eips.ethereum.org/EIPS/eip-998)
+- [EIP-998:WIP (Work-In-Progress) 可组合非同质代币标准](https://github.com/mattlockyer/composables-998)
+- [EIP-1155: 加密类别代币标准。具半同质化代币特性,ID是一个类别,且可实现跨链兼容。](https://github.com/ethereum/eips/issues/1155)
 
-### **Matic - Polygon**
+### **Polygon(Matic 马蹄链)**
 
 - [Matic/Polygon](https://polygon.technology/)
 
-### **Flow Blockchain**
+### **Flow**
 
-- [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
-### **Polkadot and Kusama**
+Flow是第一个专注于NFT+游戏的公链，其团队成员曾一手打造了火爆全球的首个NFT游戏——加密猫。其团队创造的 dApp 包括：CryptoKitties、Dapper Wallets、NBA Top shot。
 
-* [RMRK](https://github.com/rmrk*team/rmrk*spec) * standard set for nested, equippable, composable, multi*resource NFTs with on*chain emotes. [Video explainer](https://url.rmrk.app/rmrkccawe) / [writeup](https://url.rmrk.app/dawnawe).
-- [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
-### **Polkadot/Kusama**
+- [FLOW](https://www.onflow.org/) 点击查看更多Flow的 [精选列表](https://github.com/gianni-dalerta/awesome-flow)
 
-- [RMRK](https://github.com/rmrk-team/rmrk-spec)
-- [RMRK](https://github.com/rmrk-team/rmrk-spec) - standard set for nested, equippable, composable, multi-resource NFTs with on-chain emotes. [Video explainer](https://url.rmrk.app/rmrkccawe) / [writeup](https://url.rmrk.app/dawnawe).
 
-### **Hedera Token Service**
+
+### **Polkadot 和 Kusama**
+
+* [RMRK](https://github.com/rmrk*team/rmrk*spec) 嵌套、可装备、可组合、多资源 NFT 的标准集，带有链上表情 [视频解说](https://url.rmrk.app/rmrkccawe) / [writeup](https://url.rmrk.app/dawnawe).
+
+### **Hedera 代币服务**
 
 - [HTS](https://hedera.com/token-service)
 
 ### **Tezos**
+Tezos是最早提出链上自治的解决方案的项目，它是一个自修正具有图灵完备智能合约的区块链网络，通过集成一个正式的链上机制，用于提议、选择、测试和激活协议升级，而不需要通过硬分叉来进行决议等行为
 
-- See [NFT section of Awesome List](https://github.com/kevinelliott/awesome-tezos#tokens)
+- 查看更多 [Tezos精选项目](https://github.com/kevinelliott/awesome-tezos#tokens)
 
-## NFT Tutorials
+
+## NFT 教程
 
 - [Cryptozombies Tutorial](https://cryptozombies.io/en/lesson/5)
 - [NFT Tutorial Article](https://medium.com/pinata/how-to-build-erc-721-nfts-with-ipfs-e76a21d8f914)

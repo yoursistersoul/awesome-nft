@@ -9,50 +9,47 @@
 
 * [项目聚焦](#项目聚焦)
 * [区块链](#区块链)
-  * [Ethereum](#ethereum)
-  * [Matic - Polygon](#matic---polygon)
-  * [Flow Blockchain](#flow-blockchain)
-  * [Polkadot and Kusama](#polkadot-and-kusama)
-  * [Hedera Token Service](#hedera-token-service)
-  * [Tezos](#tezos)
-* [NFT Commmunity](#nft-commmunity)
-  * [DAOs](#daos)
+  * [以太坊](#以太坊)
+  * [Polygon(Matic 马蹄链)](#Polygon(Matic-马蹄链))
+  * [Flow](#Flow)
+  * [Polkadot 和 Kusama](#Polkadot-和-Kusama)
+  * [Hedera 代币服务](#Hedera-代币服务)
+  * [Tezos](#Tezos)
+* [NFT 教程](#NFT-教程)
+* [NFT 社区](#NFT-社区)
   * [Discord](#discord)
-  * [NFT Enabled Communities](#nft-enabled-communities)
-  * [Twitter List](#twitter-list)
-* [Hackathons](#hackathons)
-  * [2021 Eth Global NFT Hack](#2021-eth-global-nft-hack-full-showcase)
-* [Publications](#publications)
-  * [Newsletters](#newsletters)
-  * [Gaming](#gaming)
-  * [NFT Articles](#nft-articles)
-  * [Articles Misc](#articles-misc)
-* [Audio](#audio)
-  * [NFT Podcasts](#nft-podcasts)
-  * [Podcast Episodes](#podcast-episodes)
+  * [支持NFT的社区](#支持NFT的社区)
+  * [Twitter 列表](#Twitter-列表)
+  * [2021 Eth全球NFT黑客全面展示](#2021-Eth全球NFT黑客全面展示)
+  * [社团](#社团)
+* [出版物](#出版物)
+  * [简讯](#简讯)
+  * [新闻](#新闻)
+  * [游戏](#游戏)
+  * [NFT文章](#NFT文章)
+* [NFT播客](#NFT播客)
 
-* [Framework, blockchain orchestration, testing, and command line interface](#resources-frameworks-blockchain-orchestration-testing-and-command-line-interface)
-* [NFT Games](#nft-games)
-* [NFT Platforms](#nft-platforms)
-* [NFT Art](#nft-art)
-* [NFT IRL](#nft-irl)
-* [NFT Music](#nft-music)
-* [NFT DeFi](#nft-defi)
-* [NFT Explorers](#nft-explorers)
-* [NFT Fundraising](#nft-fundraising)
-* [NFT Collectables](#nft-collectables)
-* [NFT PFP](#nft-pfp)
-* [NFT Business](#nft-business)
-* [NFT Badges](#nft-badges)
-* [NFT Marketplaces](#nft-marketplaces)
-* [NFT Showcases](#nft-showcases)
-* [NFT Philanthropy](#nft-philanthropy)
-* [Marketplaces](#marketplaces)
-* [Generators](#generators)
-  * [NFT Minters](#nft-minters)
-* [Composables](#composables)
-* [NFT Wallets](#nft-wallets)
-* [NFT Carbon Footprint](#nft-carbon-footprint)
+* [资源、框架、区块链编排、测试和命令行界面。](#资源、框架、区块链编排、测试和命令行界面。)
+* [NFT游戏](#NFT游戏)
+* [NFT 玩转地球](#NFT-玩转地球)
+* [NFT平台](#NFT平台)
+* [NFT艺术品](#NFT艺术品)
+* [NFT现实应用](#NFT现实应用)
+* [NFT音乐](#NFT音乐)
+* [NFT Defi](#NFT-Defi)
+* [NFT-探索](#NFT-探索)
+* [NFT 收藏品](#NFT-收藏品)
+* [NFT PFP项目](#NFT-PFP项目)
+* [NFT 商业应用](#NFT-商业应用)
+* [NFT 徽章](#NFT-徽章)
+* [NFT 交易市场](#NFT-交易市场)
+* [NFT 陈列柜](#NFT-陈列柜)
+* [NFT 慈善活动](#NFT-慈善活动)
+* [发现](#发现)
+* [NFT 铸造](#NFT-铸造)
+* [可组合](#可组合)
+* [NFT 钱包](#NFT-钱包)
+* [NFT碳足迹](#NFT-碳足迹)
 <!--te-->
 
 ## **项目聚焦**
@@ -433,25 +430,25 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [Unifty](https://unifty.io/)
 - [Unique.One](https://www.unique.one/)
 
-## **NFT Showcases**
+## **NFT 陈列柜**
 - [Cyber](https://oncyber.io/)
 - [Showtime](https://tryshowtime.com/)
 
-## **NFT Philanthropy**
+## **NFT 慈善活动**
 
 - [CryptoCorals](https://cryptocorals.co/)
 - [Project Ark (WWF)](https://project-ark.co)
 
-## **Discovery**
+## **发现**
 
 - [NonFungible](https://nonfungible.com/)
 
-## **Generators**
+## **生成器**
 
-### **NFT Minters**
+### **NFT 铸造**
 
-* [Coltstail](https://www.coltstail.com)
 * [CocoNFT](https://coconft.com/)
+* [Coltstail](https://www.coltstail.com)
 * [ethmoji](https://ethmoji.io/)
 * [NiftyKit](https://niftykit.com/)
 * [KodaDot](https://nft.kodadot.xyz)
@@ -459,6 +456,7 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 * [Ownerfy](https://shop.ownerfy.com/)
 * [Rarible](https://rarible.com/)
 * [Unifty](https://unifty.io/)
+* [画师助手](https://www.uonus.net/)
 * [Valuables by Cent](https://v.cent.co/)
 * [Singular](https://singular.rmkr.app)
 - [CocoNFT](https://coconft.com/)
@@ -472,7 +470,7 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [Singular](https://singular.rmkr.app)
 
 
-## **Composables**
+## **可组合**
 
 * [Mokens](https://mokens.io/)
 * [Mintable](https://mintable.app/)
@@ -486,7 +484,7 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [CryptoRome](https://www.cryptorome.io/)
 - [Kanaria](https://kanaria.rmrk.app) via [RMRK](https://rmrk.app)
 
-## **NFT Wallets**
+## **NFT 钱包**
 
 - [Blockto](https://blocto.portto.io/)
 - [Enjin Wallet](https://enjinwallet.io/)
@@ -495,12 +493,10 @@ Tezos是最早提出链上自治的解决方案的项目，它是一个自修正
 - [DexWallet](https://www.dexwallet.io/)
 - [CoinBase Wallet](https://wallet.coinbase.com/)
 
-## **NFT Carbon Footprint**
+## **NFT 碳足迹**
 
+NFT碳足迹受到了很多争论，取决于所使用的区块链技术，特别是其共识机制：工作量证明、股权证明、已用时间证明。。。
 
-
-The NFT Carbon footprint is subject to a lot of debates and depends on the blockchain technology used, especially its consensus mechanism: Proof of Work, Proof of Stake, Proof of Elapsed Time...
-One should know that the Proof of Work (PoW) requires an important amount of energy as it is a computational competition. This amount is considerably higher than other consensus mechanisms but it is still hard to have a precise estimation of the consumed energy.
-
-- [Estimate the total CO2 footprint for popular CryptoArt platforms](https://github.com/kylemcdonald/cryptoart-footprint)
-- [Carbon.fyi by Offsetra](https://carbon.fyi/)
+我们应该知道，工作量证明（PoW）需要大量的能量，因为它是一个竞争计算。这一数量远高于其他共识机制，但仍难以准确估计消耗的能量。
+- [估算流行CryptoArt平台的总二氧化碳排放量](https://github.com/kylemcdonald/cryptoart-footprint)
+- [碳排放量 by Offsetra](https://carbon.fyi/)
